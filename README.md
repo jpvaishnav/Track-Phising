@@ -53,3 +53,5 @@ python main.py
 ## Demo
  ![out](https://user-images.githubusercontent.com/46133803/85318342-6d22f100-b4dd-11ea-9071-893d4f458fdd.gif)
 
+## References
+Documentation for thresholding: https://docs.opencv.org/trunk/d7/d4d/tutorial_py_thresholding.html
