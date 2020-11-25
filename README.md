@@ -3,7 +3,6 @@
 Computing Image difference to prevent phising attacks(that manipulates some information , create
 a fake one and try to access other information from the system)
 
----
 
 ## Installation
 
@@ -39,7 +38,6 @@ $ pip install scikit-image
 python main.py
 ```
 
----
 
 #### Expected error:
 - cv2 not installed properly on windows
@@ -48,7 +46,6 @@ python main.py
 - Python output windows is crashing
   add cv2.waitKey(0) after imshow() function
    
----
 
 ## Demo
  ![out](https://user-images.githubusercontent.com/46133803/85318342-6d22f100-b4dd-11ea-9071-893d4f458fdd.gif)
